@@ -1,5 +1,5 @@
 # yakin_kamp-s
 Yakin kampüs kodlarin paylasildigi ortam
 
-#Author
+# Author
 erol mesut gün
